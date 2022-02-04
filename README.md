@@ -1,15 +1,10 @@
 ### Hi there 👋
 
-I’m [Yasmine Evjen](https://twitter.com/YasmineEvjen) and I lead the Material Design Advocacy team at Google. We’re a team of designers and developers helping others build beautiful, human-centered experiences with [Material Design](https://material.io).
+I’m [Yasmine Evjen](https://twitter.com/YasmineEvjen) and I lead the Android System UI Developer Relations team at Google.
 
 - 🤿 Fun fact: Scuba certified
 - ⛵ Currently learning how to sail
 - 🌵 Originally from Arizona
-
-#### Catch the latest from my team:
-- 📺 [Subscribe to the Material Design YouTube Channel](http://youtube.com/MaterialDesign?sub_confirmation=1) 
-- 📚 [Read the latest on the Material Design Blog](https://material.io/blog)
-- 🐦 [Follow us on Twitter](https://twitter.com/materialdesign)
 
 
 <!--
