@@ -6,6 +6,8 @@ I’m [Yasmine Evjen](https://twitter.com/YasmineEvjen) and I lead the Android S
 - ⛵ Currently learning how to sail
 - 🌵 Originally from Arizona
 
+![octocat-1659030578618](https://user-images.githubusercontent.com/11654612/181604593-425bfade-88ad-42e3-be9b-3626060d7d54.png)
+
 
 <!--
 **yasmineevjen/yasmineevjen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
