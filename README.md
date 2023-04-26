@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m [Yasmine Evjen](https://twitter.com/YasmineEvjen) and I lead the Android System UI Developer Relations team at Google.
+I’m [Yasmine Evjen](https://twitter.com/YasmineEvjen) and I'm a product manager for Android Developer at Google.
 
 - 🤿 Fun fact: Scuba certified
 - ⛵ Currently learning how to sail
